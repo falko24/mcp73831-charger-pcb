@@ -24,7 +24,7 @@ Kompaktowa, jednocelowa płytka zarządzania i ładowania akumulatorów Li-Ion/L
 ## 📂 Struktura Repozytorium
 ```text
 ├── 📁 docs/              # Dokumentacja graficzna (zdjęcia płytki)
-├── 📁 gerbers/           # Gotowe pliki produkcyjne Gerber i wiercenia
+├── 📁 gerber/           # Gotowe pliki produkcyjne Gerber i wiercenia
 ├── 📁 schematics/        # Pliki schematów KiCad (.kicad_sch)
 ├── 📁 pcb/               # Pliki projektu płytki PCB (.kicad_pcb)
 └── README.md             # Dokumentacja projektu
