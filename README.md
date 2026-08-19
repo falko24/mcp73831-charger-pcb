@@ -6,7 +6,7 @@ Kompaktowa, jednocelowa płytka zarządzania i ładowania akumulatorów Li-Ion/L
 
 | Przód (Top) | Tył (Bottom) |
 | :---: | :---: |
-| ![Przód płytki](docs/pcb_front.png) | ![Tył płytki](docs/pcb_back.png) |
+| ![Przód płytki](docs/MCP_Front.png) | ![Tył płytki](docs/MCP_Back.png) |
 
 ## 🚀 Funkcje
 * **Złącze USB-C:** Skonfigurowane z odpowiednimi rezystorami ściągającymi na liniach CC dla standardowej negocjacji zasilania.
