@@ -1,4 +1,4 @@
-readme_content = """# Ładowarka akumulatorów Li-Po USB-C (MCP73831)
+
 
 Kompaktowa, jednocelowa płytka zarządzania i ładowania akumulatorów Li-Ion/Li-Po zaprojektowana od zera w programie KiCad. Projekt opiera się na popularnym układzie liniowej kontroli ładowania **MCP73831** oraz wykorzystuje nowoczesne gniazdo zasilania **USB typu C**.
 
